@@ -147,7 +147,7 @@ def add_user(message):
                 config['admin_balances'] = admin_balances
                 write_config(config)
 
-# SCRIPT MADE BY @SAHILMODZOWNER ON TELEGRAM THIS IS A PAID SCRIPT MOST POWERFULL A DDOS TELEGRAM BOT SCRIPT
+# SCRIPT MADE BY venom ON TELEGRAM THIS IS A PAID SCRIPT MOST POWERFULL A DDOS TELEGRAM BOT SCRIPT
 
                 # Create copies of bgmi, sahil files for the new user
                 user_bgmi_path = f'bgmi{user_id}'
