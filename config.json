@@ -1,1 +1,1 @@
-{"bot_token": "token", "admin_ids": ["adminid", "", ""], "user_file": "users.json", "log_file": "log.txt", "cooldown_time": 300, "admin_balances": {"adminid": 8769900}}
+{"bot_token": "token", "admin_ids": ["adminid"], "user_file": "users.json", "log_file": "log.txt", "cooldown_time": 300, "admin_balances": {"adminid": 8769900}}
